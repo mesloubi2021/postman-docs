@@ -14,7 +14,7 @@
     "bootstrap": "4.5.0",
     "dotenv": "8.6.0",
     "eslint-plugin-jest": "22.21.0",
-    "gatsby": "4.13.0",
+    "gatsby": "4.25.7",
     "gatsby-cli": "4.13.0",
     "gatsby-plugin-algolia": "1.0.3",
     "gatsby-plugin-env-variables": "2.2.0",
@@ -27,7 +27,7 @@
     "gatsby-plugin-react-helmet": "5.20.0",
     "gatsby-plugin-robots-txt": "1.7.1",
     "gatsby-plugin-sass": "5.20.0",
-    "gatsby-plugin-sharp": "4.13.0",
+    "gatsby-plugin-sharp": "4.25.1",
     "gatsby-plugin-sitemap": "5.20.0",
     "gatsby-plugin-sri": "1.1.0",
     "gatsby-plugin-styled-components": "5.18.0",
@@ -37,7 +37,7 @@
     "gatsby-remark-prismjs": "6.20.0",
     "gatsby-remark-responsive-iframe": "5.20.0",
     "gatsby-source-filesystem": "4.13.0",
-    "gatsby-transformer-remark": "5.20.0",
+    "gatsby-transformer-remark": "5.25.1",
     "gatsby-transformer-sharp": "4.13.0",
     "glob": "7.1.7",
     "googleapis": "55.0.0",
@@ -63,7 +63,7 @@
     "typography": "0.16.21",
     "unlink": "0.0.2",
     "uuid": "3.3.3",
-    "webpack": "5.64.4"
+    "webpack": "5.76.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "7.16.3",
